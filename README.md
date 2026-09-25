@@ -1,3 +1,7 @@
+<img src="FinlaiLab%20logo%20small.png" alt="FinlaiLab logo" width="420">
+
+Finco is developed by FinlaiLab.
+
 # Finco
 
 **Finco is a simple, natural, AI-friendly, and Python-compatible programming language.**
